@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color> <!-- Change black to white -->
+    <color name="white">#FF000000</color> <!-- Change white to black -->
+    <color name="splash">#8194FF</color>
+    <color name="text_color">#FFFFFF</color> <!-- Change text color to white -->
+    <color name="login_with_color">#BFBFBF</color> <!-- A lighter gray for login -->
+    <color name="hint_color">#BF201A1A</color> <!-- A bit lighter hint color -->
+    <color name="button_color">#5165D1</color> <!-- A darker shade of gray for buttons -->
+    <color name="logout">#FA1B1B</color>
+    <color name="home_msg">#EAEAEA</color> <!-- A lighter shade for home messages -->
+    <color name="home_view_bg">#2B2B2B</color> <!-- A darker background for home views -->
+    <color name="home_bg">#6A6868</color> <!-- A darker background for home -->
+    <color name="icon">#BFBFBF</color>
+    <color name="form_text_color">#121010</color>
+    <color name="chat_screen">#5A5555</color>
+    <color name="toolbar_text">#F7FAFF</color> <!-- A bit lighter shade for icons -->
+</resources>
